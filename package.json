@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Amine-92-03/crudRestApi/issues"
   },
-  "homepage": "https://github.com/Amine-92-03/crudRestApi#readme"
+  "homepage": "https://github.com/Amine-92-03/crudRestApi#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.15"
+  }
 }
